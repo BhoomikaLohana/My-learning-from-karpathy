@@ -1,6 +1,6 @@
 # My Learning from Karpathy
 
-Personal notes and notebooks from [Andrej Karpathy's **Neural Networks: Zero to Hero**](https://www.youtube.com/playlist?list=PLAzhMmMtaMkMXOR94K1uX2Axm0HArXoI) series — building neural networks from scratch to understand what happens under the hood.
+Personal notes and notebooks from [Andrej Karpathy's **Neural Networks: Zero to Hero**](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) series, building neural networks from scratch to understand what happens under the hood.
 
 This repo is my **learning-in-public** journal: lecture summaries, code I write along with the videos, and experiments as I work through the course.
 
